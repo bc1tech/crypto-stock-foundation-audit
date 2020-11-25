@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDE
+.idea
+
+*.swp
+*.swo
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+allFiredEvents
+scTopics
+
+# Coverage directory used by tools like istanbul
+/coverage
+/coverageEnv
+coverage.json
+
+# node-waf configuration
+.lock-wscript
+
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# npm package
+package-lock.json
+
+# local env variables
+.env
+
+# truffle build directory
+/build
+.node-xmlhttprequest-*
+
+# hardhat build directory
+/artifacts
+/cache
